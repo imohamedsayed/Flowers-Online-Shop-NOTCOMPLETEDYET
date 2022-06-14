@@ -1,0 +1,186 @@
+body {
+  padding: 2%;
+}
+.header {
+  padding: 1%;
+  width: 100%;
+  height: 10%;
+  background-color: #f7f7f7;
+  overflow: hidden;
+}
+.h {
+  text-decoration: none;
+  color: #6f3d76;
+}
+.rhDiv {
+  float: left;
+  width: 10%;
+  height: 100%;
+}
+
+.rhDiv h3 {
+  text-transform: uppercase;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 2px;
+}
+.h3y {
+  margin-left: 10px;
+}
+.h3x {
+  font-size: x-large;
+}
+.header img[alt="clock"] {
+  height: 90%;
+  margin-left: 2%;
+  width: 20%;
+
+  float: left;
+}
+.header img[alt="women"] {
+  float: left;
+  height: 90%;
+  width: 20%;
+  margin-left: 2%;
+}
+.insideHead {
+  float: left;
+  width: 40%;
+  height: 100%;
+}
+
+.insideHead img[alt="google"] {
+  width: 20%;
+  height: 100%;
+}
+.insideHead a {
+  font-size: 80%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.xinsidehead {
+  margin-top: -3%;
+}
+.navBar {
+  width: 100%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.navBar tr[class="navrow"] td {
+  width: 10%;
+  text-align: center;
+  background-color: #b667c2;
+}
+.navBar tr[class="navrow"] td:hover {
+  background-color: #c74e46;
+}
+button {
+  background-color: #9cd44f;
+}
+.question {
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+.question a {
+  text-decoration: none;
+  color: green;
+}
+.aleft {
+  overflow: hidden;
+  clear: both;
+  float: left;
+  width: 100%;
+  height: 50%;
+
+  background-size: 30%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.aleft img[alt="f"] {
+  width: 20%;
+  height: 30%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.aleft img[alt="b"] {
+  position: absolute;
+  width: 5%;
+  height: 15%;
+  bottom: 0;
+  left: 5%;
+}
+.ialeft {
+  position: absolute;
+  height: 80%;
+  width: 30%;
+  top: 10%;
+  left: 35%;
+}
+.aleft img[alt="c"] {
+  position: absolute;
+  width: 100%;
+  height: 123%;
+  top: -10%;
+  left: 40%;
+  float: left;
+}
+.aleft img[alt="a"] {
+  position: absolute;
+  width: 70%;
+  height: 50%;
+  top: -10%;
+  left: 140%;
+  float: left;
+}
+.aleft img[alt="ac"] {
+  position: absolute;
+  width: 70%;
+  height: 40%;
+  top: 40%;
+  left: 140%;
+  float: left;
+}
+.aleft img[alt="ab"] {
+  position: absolute;
+  width: 70%;
+  height: 40%;
+  top: 80%;
+  left: 140%;
+  float: left;
+}
+p {
+  color: gray;
+}
+p a {
+  text-align: none;
+  color: #ff007c;
+  margin-left: 30%;
+  font-weight: bold;
+}
+.item {
+  margin-top: 5%;
+  margin-right: 4%;
+  float: left;
+  width: 20%;
+  height: 70%;
+  position: relative;
+}
+.item im {
+  height: 60%;
+}
+.item .im img[alt="f"] {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.im img[alt="b"] {
+  position: absolute;
+  width: 20%;
+  height: 15%;
+  top: 50%;
+  right: 10%;
+}
